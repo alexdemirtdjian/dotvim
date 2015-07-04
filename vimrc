@@ -1,5 +1,6 @@
 execute pathogen#infect()
 syntax on
+colorscheme molokai
 filetype plugin indent on
 
 
@@ -9,3 +10,6 @@ filetype plugin indent on
 " tabstop : width of a tab if present 
 " expandtab : insert spaces instead of tabs
 :set tabstop=4 softtabstop=4 shiftwidth=4 expandtab
+
+" show line number
+:set nu
