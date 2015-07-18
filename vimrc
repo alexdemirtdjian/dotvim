@@ -13,3 +13,6 @@ filetype plugin indent on
 
 " show line number
 :set nu
+
+" enable the mouse
+:set mouse=a
