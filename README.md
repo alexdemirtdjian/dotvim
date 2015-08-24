@@ -5,7 +5,7 @@ Install :
 ---------
 
 	cd 
-	git clone https://github.com/alexdemirtdjian/dotvim.git
+	git clone https://github.com/alexdemirtdjian/dotvim.git .vim
 
 Making symlinks :
 -----------------
